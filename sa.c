@@ -8,6 +8,8 @@ for(i;i<n;i++){
  sum=sum+a;
 }
 printf("sum is:%d",sum);
+printf("hi my name is sai");
+printf("i am from cse department:");
 return 0;
 }
 
